@@ -15,18 +15,18 @@ Este projeto tem como objetivo aprofundar o conhecimento em algoritmos para graf
 Os exercícios abordados são os seguintes:
 | Código do Problema | Nome do Problema                                                                                   | Dificuldade |   Responsável | Solução
 | ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------ | ---- |
-| 2577              | [Count Substrings That Can Be Rearranged to Contain a String II](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/description/)     | Difícil     | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](x) |
+| 2577              | [Count Substrings That Can Be Rearranged to Contain a String II](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/description/)     | Difícil     | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/ae1809ca00db9c44b883091b07df18a0c685e8c9/Problema_2577/problema2577.py) |
 | x               | [x](x)               | Difícil      | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução](x) |
-| 787               | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)               | Médio       | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](x) |
+| 787               | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)               | Médio       | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/ae1809ca00db9c44b883091b07df18a0c685e8c9/Problema_787/problema787.py) |
 | x               | [x](x)               | Médio       | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução](x) |
 
 
 ## Screenshots
-![Problema 2577](x) <br>
+![Problema 2577](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/main/Problema_2577/img/prob2577.png) <br>
 *Problema 2577 aceitação* <br> <br>
 ![Problema x](x) <br>
 *Problema x aceitação* <br><br>
-![Problema 787](x) <br>
+![Problema 787](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/ae1809ca00db9c44b883091b07df18a0c685e8c9/Problema_787/img/prob787.png) <br>
 *Problema 787 aceitação* <br> <br>
 ![Problema x](x) <br>
 *Problema x aceitação* <br> <br>
