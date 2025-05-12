@@ -47,3 +47,6 @@ Explique como usar seu projeto caso haja algum passo a passo após o comando de 
 - Copie e cole a solução fornecida (em Python).
 - Clique no botão Run para testar com os casos de exemplo.
 - Verifique se a saída corresponde ao esperado ou se aparece **Accepted** na secção **Test Result**.
+
+### Link da apresentação
+[Vídeo](x) 
