@@ -28,7 +28,11 @@ Os exercícios abordados são os seguintes:
 *Problema x aceitação* <br><br>
 ![Problema 787](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/ae1809ca00db9c44b883091b07df18a0c685e8c9/Problema_787/img/prob787.png) <br>
 *Problema 787 aceitação* <br> <br>
-![Problema x](x) <br>
+![Problema 913](![image](https://github.com/user-attachments/assets/8a719992-0740-4253-8d63-898f9f4bdf4f)) <br>
+*Problema x aceitação* <br> <br>
+![Problema 913](![image](https://github.com/user-attachments/assets/30d00e99-9c81-4843-9051-333ff537d067)) <br>
+*Problema x aceitação* <br> <br>
+![Problema 1042](![image](https://github.com/user-attachments/assets/d6dd901f-566f-47ad-999c-b40b0dfebe49)) <br>
 *Problema x aceitação* <br> <br>
 
 ## Instalação 
