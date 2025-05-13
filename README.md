@@ -16,24 +16,20 @@ Os exercícios abordados são os seguintes:
 | Código do Problema | Nome do Problema                                                                                   | Dificuldade |   Responsável | Solução
 | ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------ | ---- |
 | 2577              | [Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/?envType=daily-question&envId=2024-11-29)     | Difícil     | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/ae1809ca00db9c44b883091b07df18a0c685e8c9/Problema_2577/problema2577.py) |
-| x               | [x](x)               | Difícil      | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução](x) |
+| 1042               | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/)               | Difícil      | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/main/Problema_1042/problema1042.py) |
 | 787               | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)               | Médio       | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/ae1809ca00db9c44b883091b07df18a0c685e8c9/Problema_787/problema787.py) |
-| x               | [x](x)               | Médio       | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução](x) |
+| 913               | [Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/description/)               | Médio       | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/main/Problema_913/problema913.py) |
 
 
 ## Screenshots
 ![Problema 2577](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/main/Problema_2577/img/prob2577.png) <br>
 *Problema 2577 aceitação* <br> <br>
-![Problema x](x) <br>
-*Problema x aceitação* <br><br>
 ![Problema 787](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/ae1809ca00db9c44b883091b07df18a0c685e8c9/Problema_787/img/prob787.png) <br>
 *Problema 787 aceitação* <br> <br>
-![Problema 913](![image](https://github.com/user-attachments/assets/8a719992-0740-4253-8d63-898f9f4bdf4f)) <br>
+![Problema 913](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/main/Problema_1042/problem913.jpeg) <br>
 *Problema x aceitação* <br> <br>
-![Problema 913](![image](https://github.com/user-attachments/assets/30d00e99-9c81-4843-9051-333ff537d067)) <br>
-*Problema x aceitação* <br> <br>
-![Problema 1042](![image](https://github.com/user-attachments/assets/d6dd901f-566f-47ad-999c-b40b0dfebe49)) <br>
-*Problema x aceitação* <br> <br>
+![Problema 1042](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/main/Problema_1042/problem1042.jpeg) <br>
+*Problema 1042 aceitação* <br> <br>
 
 ## Instalação 
 **Linguagem**: Python<br>
@@ -53,4 +49,4 @@ Explique como usar seu projeto caso haja algum passo a passo após o comando de 
 - Verifique se a saída corresponde ao esperado ou se aparece **Accepted** na secção **Test Result**.
 
 ### Link da apresentação
-[Vídeo](https://drive.google.com/drive/u/1/folders/1syY6I0K14MssRBsubN2-Sp2HQPiFfCFn) 
+[Vídeo](https://drive.google.com/file/d/1u__U04b5Urg9u10M86jpDWK66R85TZuv/view?usp=drive_link) 
