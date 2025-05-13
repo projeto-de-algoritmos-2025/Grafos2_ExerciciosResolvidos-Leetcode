@@ -24,7 +24,7 @@ Os exercícios abordados são os seguintes:
 ## Screenshots
 ![Problema 2577](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/main/Problema_2577/img/prob2577.png) <br>
 *Problema 2577 aceitação* <br> <br>
-![Problema 787](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/ae1809ca00db9c44b883091b07df18a0c685e8c9/Problema_787/img/prob787.png) <br>
+![Problema 787](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/main/Problema_787/img/prob787.png) <br>
 *Problema 787 aceitação* <br> <br>
 ![Problema 913](https://github.com/projeto-de-algoritmos-2025/Grafos2_ExerciciosResolvidos-Leetcode/blob/main/Problema_1042/problem913.jpeg) <br>
 *Problema x aceitação* <br> <br>
